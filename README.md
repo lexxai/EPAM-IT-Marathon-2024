@@ -246,11 +246,12 @@ The DevOps setup for this project includes:
 - Monitoring and logging setups
 - Prerequisites
 
-1. Infrastructure as Code (IaC). Terraform - [https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform/README_HW.md)
-
+1. Infrastructure as Code (IaC). 
     <details>  
     <summary>Click to expand</summary>
-      
+
+    Terraform - [https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform/README_HW.md)
+
     ![зображення](https://github.com/user-attachments/assets/f427e14f-64d1-4017-af78-5d8776df1ae6)
     </details>
 

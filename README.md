@@ -47,6 +47,8 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 
 ## Домашні завдання 
+<details>
+  <summary>Click to expand</summary>
 
 ### 1. UX/UI Design
 <details>
@@ -198,7 +200,7 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 ![зображення](https://github.com/user-attachments/assets/939a7836-ce4f-4bd4-9df6-0a8381d02b8f)
 
-  
+</details>
 </details>
 
 ## Examinator
@@ -235,11 +237,33 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 #### Рішення:
 
-1. terraform - [https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform/README_HW.md)
-![зображення](https://github.com/user-attachments/assets/f427e14f-64d1-4017-af78-5d8776df1ae6)
+This directory contains the DevOps components for the IT Marathon project, focusing on infrastructure as code and deployment automation.
 
-2. 
+The DevOps setup for this project includes:
 
+- Infrastructure as Code (IaC) using Terraform
+- Continuous Integration and Continuous Deployment (CI/CD) using Azure DevOps
+- Monitoring and logging setups
+- Prerequisites
 
+1. Infrastructure as Code (IaC). Terraform - [https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform/README_HW.md)
+
+    <details>  
+    <summary>Click to expand</summary>
+      
+    ![зображення](https://github.com/user-attachments/assets/f427e14f-64d1-4017-af78-5d8776df1ae6)
+    </details>
+
+3. Continuous Integration and Continuous Deployment (CI/CD) using Azure DevOps
+
+4. Monitoring and logging setups:
+   
+    <details>  
+    <summary>Click to expand</summary>
+    
+    - ![зображення](https://github.com/user-attachments/assets/baea3964-f337-465e-ae1b-659f13eeaf52)
+    - ![зображення](https://github.com/user-attachments/assets/a0eddffe-2174-4acb-9d88-48ad58be0287)
+    - ![зображення](https://github.com/user-attachments/assets/c18c779d-3b10-4a21-9d0d-3a3e1db80924)
+    </details>
 </details>
 

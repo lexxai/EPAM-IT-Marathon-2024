@@ -76,7 +76,7 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 ![зображення](https://github.com/user-attachments/assets/572b5c41-cfdc-4afa-8917-f59a9919a9a2)
 
-#### Завдання
+#### Завдання:
 
 1. Створити та налаштувати Azure-акаунт.
 2. Ознайомитися з сервісами:
@@ -86,7 +86,7 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 - 📌Azure [DevOps](https://azure.microsoft.com/en-us/products/devops)
 - 📌Azure [Mysql Flexible Server](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/overview) 
 
-#### Рішення
+#### Рішення:
 
 ![зображення](https://github.com/user-attachments/assets/6ee23e24-98ee-4301-b731-acad0ec1291d)
 </details>
@@ -99,7 +99,7 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 ![зображення](https://github.com/user-attachments/assets/21b1015e-9da6-4854-a6bb-d08201e42c64)
 
-#### Завдання
+#### Завдання:
 
 Реалізувати REST endpoint отримання оголошень з фільтруванням, сортуванням і посторінковим завантаженням. 
  
@@ -119,7 +119,7 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
  
 Додатково до цього повинна вираховуватись загальна кількість записів, що проходить фільтр. Це потрібно для вирахування кількості сторінок посторінкового завантаження. 
 
-#### Рішення
+#### Рішення:
 [https://github.com/lexxai/it-marathon-v4-net-workshop](https://github.com/lexxai/it-marathon-v4-net-workshop/tree/dev?tab=readme-ov-file#%D1%80%D0%B5%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F)
 
 ![зображення](https://github.com/user-attachments/assets/b426df76-5b7c-468a-902d-d32263fde0da)
@@ -138,7 +138,7 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 Треба зробити так, щоб кожен запит до нашого мікросервісу потрапляв у текстовий файл, а також мав в собі час, який витрачено на виконання запиту.
 
-#### Рішення
+#### Рішення:
 
 [https://github.com/lexxai/EPAM-2024-petworld-python](https://github.com/lexxai/EPAM-2024-petworld-python?tab=readme-ov-file#homework)
 
@@ -147,14 +147,21 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 </details>
 
 
-### 1. UX/UI Design
+### 5. Web Programming
 <details>
 <summary>Click to expand</summary>
   
-#### Завдання
-
-#### Рішення
+![зображення](https://github.com/user-attachments/assets/f7f44258-fadd-4fe0-9b1d-8cdab8962e4f)
   
+#### Завдання:
+Реалізувати Login сторінку
+
+#### Рішення:
+
+[https://github.com/lexxai/epam-marathon_v4-frontend_homework](https://github.com/lexxai/epam-marathon_v4-frontend_homework?tab=readme-ov-file#home-work)
+
+![зображення](https://github.com/user-attachments/assets/b9142b0e-244b-45b0-8d70-d5ce7c1f502d)
+
 </details>
 
 
@@ -162,9 +169,9 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 <details>
 <summary>Click to expand</summary>
   
-#### Завдання
+#### Завдання:
 
-#### Рішення
+#### Рішення:
   
 </details>
 

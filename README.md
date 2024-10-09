@@ -290,13 +290,13 @@ The DevOps setup for this project includes:
 
 3. Тема проєкту "Pet World"
 4. Проєкт об'єднано з 4-х репозиторіїв котрі були використанні у домашніх завданнях відповідно для:
-  - Backend:
-    - [.NET (C#)](https://github.com/lexxai/it-marathon-v4-net-workshop)
-    - [FastAPI (Python)](https://github.com/lexxai/EPAM-2024-petworld-python)
-  - Frontend:
-    - [Angular (JavaScript)](https://github.com/lexxai/epam-marathon_v4-frontend_homework)
-  - DevOps:
-    - [Azure Cloud](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/azure-devop)
+    - Backend:
+      - [.NET (C#)](https://github.com/lexxai/it-marathon-v4-net-workshop)
+      - [FastAPI (Python)](https://github.com/lexxai/EPAM-2024-petworld-python)
+    - Frontend:
+      - [Angular (JavaScript)](https://github.com/lexxai/epam-marathon_v4-frontend_homework)
+    - DevOps:
+      - [Azure Cloud](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/azure-devop)
 
 </details>
 

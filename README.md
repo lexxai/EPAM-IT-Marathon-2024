@@ -64,9 +64,13 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 🖼 Приклади екранів: [Figma file](https://www.figma.com/design/n3NerFxT8TyGzlosEbbE0e/homework_it_marathon?node-id=0-1&node-type=canvas&t=vzkuVaX8Li0OGC23-0)
 
-  #### Рішення:
+#### Рішення:
 
   [Figma file](https://www.figma.com/design/Vo3844B2pQXppfY6OGp45f/homework_it_marathon-(lexxai)?node-id=0-1&t=93DZnEBqlmfCGQ4s-1)
+
+#### Зворотній зв'язок:
+  [![зображення](https://github.com/user-attachments/assets/d2b68d1c-12da-4ab3-b416-785a30760db1)](https://shelled-baker-894.notion.site/homework_feed-11740c272e7380f49115dcde5c264a6f)
+
   
 </details>
 
@@ -124,6 +128,11 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 ![зображення](https://github.com/user-attachments/assets/b426df76-5b7c-468a-902d-d32263fde0da)
 
+#### Зворотній зв'язок:
+
+![зображення](https://github.com/user-attachments/assets/25bb6d59-302e-4039-a0f8-6a3f7eb9344f)
+
+
 </details>
 
 ### 4. API Development with Python
@@ -134,6 +143,7 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
   
 #### Завдання:
+
 Сконфігурувати та розробити механізм логування подій для чинного функціоналу авторизації в додатку Pet World. 
 
 Треба зробити так, щоб кожен запит до нашого мікросервісу потрапляв у текстовий файл, а також мав в собі час, який витрачено на виконання запиту.
@@ -143,6 +153,9 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 [https://github.com/lexxai/EPAM-2024-petworld-python](https://github.com/lexxai/EPAM-2024-petworld-python?tab=readme-ov-file#homework)
 
 ![зображення](https://github.com/user-attachments/assets/5adaaf53-b1e1-47f8-aa24-5160a14f7634)
+
+#### Зворотній зв'язок:
+...
 
 </details>
 
@@ -162,14 +175,22 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 ![зображення](https://github.com/user-attachments/assets/b9142b0e-244b-45b0-8d70-d5ce7c1f502d)
 
+#### Зворотній зв'язок:
+![зображення](https://github.com/user-attachments/assets/8e9aed37-e998-4664-8080-560586d3f500)
+
+
 </details>
 
 
-### 1. UX/UI Design
+### 1. Cloud
 <details>
 <summary>Click to expand</summary>
-  
+
+![зображення](https://github.com/user-attachments/assets/0f7d409b-82c5-41b0-826e-da469653cc89)
+
 #### Завдання:
+
+Збираємо усе, дописуємо, піднімаємо проєкт.
 
 #### Рішення:
   

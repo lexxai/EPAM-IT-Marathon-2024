@@ -52,6 +52,8 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 <details>
   <summary>Click to expand</summary>
   
+![зображення](https://github.com/user-attachments/assets/eaaff3b0-41ad-4677-883b-fe8de60716da)
+
 #### Завдання
   Створіть сторінку 🐶 тваринки для нашого проєкту. 
   
@@ -68,9 +70,53 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
   
 </details>
 
+### 2. Software Architecture. Cloud
+<details>
+<summary>Click to expand</summary>
+
+![зображення](https://github.com/user-attachments/assets/572b5c41-cfdc-4afa-8917-f59a9919a9a2)
+
+#### Завдання
+
+1. Створити та налаштувати Azure-акаунт.
+2. Ознайомитися з сервісами:
+   
+- 📌Azure [Web App](https://azure.microsoft.com/en-us/products/app-service/webhttps://azure.microsoft.com/en-us/products/app-service/web)
+- 📌Azure [Storage Account](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview)
+- 📌Azure [DevOps](https://azure.microsoft.com/en-us/products/devops)
+- 📌Azure [Mysql Flexible Server](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/overview) 
+
+#### Рішення
+
+![зображення](https://github.com/user-attachments/assets/6ee23e24-98ee-4301-b731-acad0ec1291d)
+</details>
+
+
 ### 1. UX/UI Design
 <details>
-  <summary>Click to expand</summary>
+<summary>Click to expand</summary>
+  
+#### Завдання
+
+#### Рішення
+  
+</details>
+
+
+### 1. UX/UI Design
+<details>
+<summary>Click to expand</summary>
+  
+#### Завдання
+
+#### Рішення
+  
+</details>
+
+
+### 1. UX/UI Design
+<details>
+<summary>Click to expand</summary>
   
 #### Завдання
 

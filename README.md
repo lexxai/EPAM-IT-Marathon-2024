@@ -236,14 +236,10 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 🎁 Ми оберемо найкращі проєкти. І звісно ж, на авторів найкращих робіт чекають приємні подарунки від [EPAM Campus!](https://t.me/epamuniprogua)
 
 #### Рішення:
-##### DevOps
+##### DevOps:
 This directory contains the DevOps components for the IT Marathon project, focusing on infrastructure as code and deployment automation.
 
 The DevOps setup for this project includes:
-
-- Infrastructure as Code (IaC) using Terraform
-- Continuous Integration and Continuous Deployment (CI/CD) using Azure DevOps
-- Monitoring and logging setups
 
 1. Infrastructure as Code (IaC). 
     <details>  
@@ -278,7 +274,7 @@ The DevOps setup for this project includes:
     </details>
 
 
-##### Cайт
+##### Cайт:
 1. Готовий сайт розвернуто з унікальним ім'ям: [https://stitmarathonlexxaiprod.z16.web.core.windows.net](https://stitmarathonlexxaiprod.z16.web.core.windows.net)
      <details>  
       <summary>Click to expand</summary>

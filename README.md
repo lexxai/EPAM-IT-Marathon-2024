@@ -121,18 +121,29 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 
 #### Рішення
 [https://github.com/lexxai/it-marathon-v4-net-workshop](https://github.com/lexxai/it-marathon-v4-net-workshop/tree/dev?tab=readme-ov-file#%D1%80%D0%B5%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F)
-  
+
+![зображення](https://github.com/user-attachments/assets/b426df76-5b7c-468a-902d-d32263fde0da)
+
 </details>
 
-
-### 1. UX/UI Design
+### 4. API Development with Python
 <details>
 <summary>Click to expand</summary>
   
-#### Завдання
+![зображення](https://github.com/user-attachments/assets/e20988a5-adf0-44ad-9f36-554b58b5cfb3)
+
+  
+#### Завдання:
+Сконфігурувати та розробити механізм логування подій для чинного функціоналу авторизації в додатку Pet World. 
+
+Треба зробити так, щоб кожен запит до нашого мікросервісу потрапляв у текстовий файл, а також мав в собі час, який витрачено на виконання запиту.
 
 #### Рішення
-  
+
+[https://github.com/lexxai/EPAM-2024-petworld-python](https://github.com/lexxai/EPAM-2024-petworld-python?tab=readme-ov-file#homework)
+
+![зображення](https://github.com/user-attachments/assets/5adaaf53-b1e1-47f8-aa24-5160a14f7634)
+
 </details>
 
 

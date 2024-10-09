@@ -255,8 +255,19 @@ The DevOps setup for this project includes:
     ![зображення](https://github.com/user-attachments/assets/f427e14f-64d1-4017-af78-5d8776df1ae6)
     </details>
 
-3. Continuous Integration and Continuous Deployment (CI/CD) using Azure DevOps
+2. Continuous Integration and Continuous Deployment (CI/CD) using Azure DevOps
+     <details>  
+      <summary>Click to expand</summary>
 
+      Azure DevOps - [https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/azure-devops](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/azure-devops/README-HW-CICD.md)
+   
+     ![зображення](https://github.com/user-attachments/assets/217a8406-1c42-4f7f-a576-e90ab92f3259)
+     ![зображення](https://github.com/user-attachments/assets/55bc0175-9263-4380-84e3-e270a60b51d0)
+     ![зображення](https://github.com/user-attachments/assets/81118090-547d-4dca-9c56-2c1f81212b1f)
+
+
+
+     </details>
 4. Monitoring and logging setups:
    
     <details>  

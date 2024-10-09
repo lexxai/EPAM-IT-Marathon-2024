@@ -182,7 +182,7 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 </details>
 
 
-### 1. Cloud
+### 6. Cloud
 <details>
 <summary>Click to expand</summary>
 
@@ -193,6 +193,11 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 Збираємо усе, дописуємо, піднімаємо проєкт.
 
 #### Рішення:
+
+[Див. проєкт.](https://github.com/lexxai/EPAM-IT-Marathon-2024/edit/main/README.md#%D0%BF%D1%80%D0%BE%D1%94%D0%BA%D1%82)
+
+![зображення](https://github.com/user-attachments/assets/939a7836-ce4f-4bd4-9df6-0a8381d02b8f)
+
   
 </details>
 
@@ -229,6 +234,12 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 🎁 Ми оберемо найкращі проєкти. І звісно ж, на авторів найкращих робіт чекають приємні подарунки від [EPAM Campus!](https://t.me/epamuniprogua)
 
 #### Рішення:
+
+1. terraform - [https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/terraform/README_HW.md)
+![зображення](https://github.com/user-attachments/assets/f427e14f-64d1-4017-af78-5d8776df1ae6)
+
+2. 
+
 
 </details>
 

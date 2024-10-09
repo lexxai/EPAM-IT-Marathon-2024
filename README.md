@@ -92,13 +92,35 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 </details>
 
 
-### 1. UX/UI Design
+### 3. Web API on .NET
+
 <details>
 <summary>Click to expand</summary>
-  
+
+![зображення](https://github.com/user-attachments/assets/21b1015e-9da6-4854-a6bb-d08201e42c64)
+
 #### Завдання
 
+Реалізувати REST endpoint отримання оголошень з фільтруванням, сортуванням і посторінковим завантаженням. 
+ 
+В ProposalsController реалізувати метод: 
+```csharp
+   public async Task<ActionResult<DataPage<ProposalDto>>> GetAllProposals( 
+       FromQuery(Name = "$top") int? top, 
+       FromQuery(Name = "$skip") int? skip, 
+       FromQuery(Name = "$filter") string? filter, 
+       FromQuery(Name = "$orderby") string? orderby) 
+ ```
+Цей метод повинен зчитувати з бази даних оголошення, використовуючи надані параметри: 
+- `top` - повертає тільки задану кількість перших записів
+- `skip` - пропускає задану кількість записів
+- `filter` - фільтрує записи (формат фільтра OData)
+- `orderby` - сортує записи (формат сортування OData) 
+ 
+Додатково до цього повинна вираховуватись загальна кількість записів, що проходить фільтр. Це потрібно для вирахування кількості сторінок посторінкового завантаження. 
+
 #### Рішення
+[https://github.com/lexxai/it-marathon-v4-net-workshop](https://github.com/lexxai/it-marathon-v4-net-workshop/tree/dev?tab=readme-ov-file#%D1%80%D0%B5%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%8F)
   
 </details>
 

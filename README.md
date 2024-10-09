@@ -236,7 +236,7 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 🎁 Ми оберемо найкращі проєкти. І звісно ж, на авторів найкращих робіт чекають приємні подарунки від [EPAM Campus!](https://t.me/epamuniprogua)
 
 #### Рішення:
-
+##### DevOps
 This directory contains the DevOps components for the IT Marathon project, focusing on infrastructure as code and deployment automation.
 
 The DevOps setup for this project includes:
@@ -244,7 +244,6 @@ The DevOps setup for this project includes:
 - Infrastructure as Code (IaC) using Terraform
 - Continuous Integration and Continuous Deployment (CI/CD) using Azure DevOps
 - Monitoring and logging setups
-- Prerequisites
 
 1. Infrastructure as Code (IaC). 
     <details>  
@@ -277,5 +276,30 @@ The DevOps setup for this project includes:
     - ![зображення](https://github.com/user-attachments/assets/a0eddffe-2174-4acb-9d88-48ad58be0287)
     - ![зображення](https://github.com/user-attachments/assets/c18c779d-3b10-4a21-9d0d-3a3e1db80924)
     </details>
-</details>
 
+
+##### Cайт
+1. Готовий сайт розвернуто з унікальним ім'ям: [https://stitmarathonlexxaiprod.z16.web.core.windows.net](https://stitmarathonlexxaiprod.z16.web.core.windows.net)
+     <details>  
+      <summary>Click to expand</summary>
+      
+      ![зображення](https://github.com/user-attachments/assets/7c5143c7-26bd-4ac8-a00c-896152efe004)
+      ![зображення](https://github.com/user-attachments/assets/0a559fb8-a219-4c3d-a251-aa91b08c6c44)
+      ![зображення](https://github.com/user-attachments/assets/43b69dbb-eba1-435b-9ee3-97efbd3b8a69)
+      [Інше...](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/azure-devops/README-HW-CICD.md#web-site)
+     </details>
+
+2. Проєкт розміщено у хмарі Azure.
+
+
+3. Тема проєкту "Pet World"
+4. Проєкт об'єднано з 4-х репозиторіїв котрі були використанні у домашніх завданнях відповідно для:
+  - Backend:
+    - [.NET](https://github.com/lexxai/it-marathon-v4-net-workshop)
+    - [FastAPI](https://github.com/lexxai/EPAM-2024-petworld-python)
+  - Frontend:
+    - [Angular](https://github.com/lexxai/epam-marathon_v4-frontend_homework)
+  - DevOps:
+    - [Azure](https://github.com/lexxai/EPAM-2024-devops/blob/dev/devops/azure-devop)
+
+</details>

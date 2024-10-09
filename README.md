@@ -44,3 +44,58 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 Ми оберемо найкращі проєкти та покажемо їх на фінальній зустрічі, а також на авторів найцікавіших робіт чекають приємні призи від EPAM Campus! 🎁
 
 </details>
+
+
+## Домашні завдання 
+
+### 1. UX/UI Design
+<details>
+  <summary>Click to expand</summary>
+  
+#### Завдання
+  Створіть сторінку 🐶 тваринки для нашого проєкту. 
+  
+*Вимоги*: 
+- Використовуйте компоненти
+- Використовуйте Auto layout 
+- Використовуйте існуючі шрифти та кольори, щоб ваш дизайн був консистентним.
+
+🖼 Приклади екранів: [Figma file](https://www.figma.com/design/n3NerFxT8TyGzlosEbbE0e/homework_it_marathon?node-id=0-1&node-type=canvas&t=vzkuVaX8Li0OGC23-0)
+
+  #### Рішення:
+
+  [Figma file](https://www.figma.com/design/Vo3844B2pQXppfY6OGp45f/homework_it_marathon-(lexxai)?node-id=0-1&t=93DZnEBqlmfCGQ4s-1)
+  
+</details>
+
+### 1. UX/UI Design
+<details>
+  <summary>Click to expand</summary>
+  
+#### Завдання
+
+#### Рішення
+  
+</details>
+
+
+### 1. UX/UI Design
+<details>
+<summary>Click to expand</summary>
+  
+#### Завдання
+
+#### Рішення
+  
+</details>
+
+## Далі
+<details>
+<summary>Click to expand</summary>
+</details>
+
+## Далі
+<details>
+<summary>Click to expand</summary>
+</details>
+

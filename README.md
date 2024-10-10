@@ -157,7 +157,8 @@ IT Marathon 2024 from EPAM.  Backend : .NET (C#), FastAPI (Python). Frontend: An
 ![зображення](https://github.com/user-attachments/assets/5adaaf53-b1e1-47f8-aa24-5160a14f7634)
 
 #### Зворотній зв'язок:
-...
+![зображення](https://github.com/user-attachments/assets/a455a7c1-071b-41b5-b4e6-1713744777bb)
+
 
 </details>
 
